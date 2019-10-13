@@ -1,4 +1,4 @@
-#Sorting
+# Sorting
 
 | Sort Type | Best TC | Average TC  | Worst TC | 
 |:-------------|:-------------:|:-----:|:-------:|
@@ -11,6 +11,6 @@
 |Bucket Sort|Ω(n+k)|θ(n+k)|O(n^2)|
 |Radix Sort|Ω(nk)|θ(nk)|O(nk)|
 
-####Legend
+#### Legend
 
 TC : Time Complexity
